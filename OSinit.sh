@@ -22,6 +22,7 @@ apt-get install -y filezilla
 apt-get install -y playonlinux
 apt-get install -y tmux
 apt-get install -y htop
+apt-get install -y smartgit
 
 apt-get install -y oracle-java8-installer
 apt-get install -y sublime-text
